@@ -1,11 +1,13 @@
 import React from 'react';
+
+import '../App.css';
   
-const Contact = () => {
+export default function Landing() {
   return (
-    <div>
-      <h1>Mail us on feedback@geeksforgeeks.org</h1>
+    <div className="page-content-container">
+      <img src='/logo192.png' />
+      <div className="force-break" />
+      <a href="/home">Enter</a>
     </div>
   );
 };
-  
-export default Contact;
