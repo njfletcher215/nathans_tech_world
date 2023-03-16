@@ -1,5 +1,6 @@
 .nav {
     min-width: fit-content;
     width: 15%;
+    height: 100%;
     padding-right: 15px;
 }
