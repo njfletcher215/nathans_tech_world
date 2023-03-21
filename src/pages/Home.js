@@ -8,7 +8,7 @@ export default function Home() {
             <Navbar />
             <div className="home-page-content">
                 <h1>Welcome!</h1>
-                <p>Please visit any of my blogs (on your left!), and don't forget to sign the <a href="/log-book"><i>guest booook!</i></a></p>
+                <p>Please visit any of my blogs (on your left!), and don't forget to sign the <a href="/#/log-book"><i>guest booook!</i></a></p>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare eget tellus in auctor. Quisque rutrum lacus mauris, at fringilla turpis venenatis ut. Sed finibus sem sit amet dui dapibus semper. Fusce cursus vel tortor vitae volutpat. Morbi ac ultricies dui, quis facilisis enim. Sed porta velit augue, quis porttitor diam placerat ac. Praesent eget lectus id ex consectetur facilisis quis ac lacus. Praesent ullamcorper ac est sed malesuada. Quisque viverra felis eget porta ullamcorper. Nullam turpis sapien, imperdiet elementum ipsum ut, gravida porta tortor. Phasellus at risus tellus. Etiam in faucibus felis.
                     Nunc vel faucibus turpis, vel elementum erat. Suspendisse quis diam vel velit efficitur consequat ac non arcu. Etiam felis nulla, blandit id libero eget, lacinia mollis dolor. Suspendisse massa sem, interdum eget eleifend vitae, vehicula mattis turpis. Mauris ligula sem, consectetur ac blandit at, ultricies vitae lorem. Aliquam molestie, felis a congue tincidunt, ligula quam dapibus diam, eget laoreet tellus tortor at sapien. Curabitur non efficitur ligula, tristique pulvinar mauris.
