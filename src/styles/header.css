@@ -10,3 +10,8 @@
     width: 100%;
     min-height: fit-content;
 }
+
+.invisible-link {
+    text-decoration: none;
+    color: black;
+}

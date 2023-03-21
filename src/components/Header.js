@@ -5,7 +5,7 @@ export default function Header() {
     <div className="centered">
         <div className="heading">
             <h1>
-                Nathan's Tech World!
+                <a className="invisible-link" href="/home">Nathan's Tech World!</a>
             </h1>
         </div>
     </div>

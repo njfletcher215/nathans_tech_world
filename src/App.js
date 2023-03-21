@@ -12,6 +12,7 @@ import HardwareTutorials from './pages/HardwareTutorials';
 import Schematics from './pages/Schematics';
 import CoolTech from './pages/CoolTech';
 import Games from './pages/Games';
+import LogBook from './pages/LogBook';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
               <Route path='/schematics' element={<Schematics />} />
               <Route path='/cool-tech' element={<CoolTech />} />
               <Route path='/games' element={<Games />} />
+              <Route path='/log-book' element={<LogBook />} />
           </Routes>
         </Router>
       </div>
