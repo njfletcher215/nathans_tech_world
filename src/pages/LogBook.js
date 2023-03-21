@@ -7,6 +7,13 @@ export default function LogBook() {
             <div className="log-book-page-content">
                 <h1>Log Book</h1>
                 <div className="log-book">
+                    <form className="sign">
+                        <input type="text" name='username' placeholder='username'/>
+                        <br />
+                        <textarea name='message' placeholder='Leave me a message here!' />
+                        <br />
+                        <input type='submit' value='sign'/>
+                    </form>
                     <div className="post">
                         <h4 className="post-username">username</h4>
                         <p className="post-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
